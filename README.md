@@ -1,4 +1,5 @@
 - 👋 Oi pessoal, Ou Elias Oliveira,  ou techexpc nas comunidades;
+- 
 -- 👀  Sou interessado por toda a árede desenvolvimento de sites e sistemas, mas também sou ligado na área de infraestrutura de comunicação;
 - 🌱 Por hora estou estudando HTML, CSS, BOOTSTRAP, JAVASCRIPT e AWS;
 - 💞️  Quero colaborar em projetos de desnvolvimento para Front-End, quando estiver bem afinado nessa área vou passar pro Back-end;
