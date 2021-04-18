@@ -1,5 +1,5 @@
-- 👋 Oi pessoal, sou Elias Oliveira, sou Analista de Desenvolvimento, e nas comunidades sou "techexpc";
-- 👀 Sou interessado por toda a áre de desenvolvimento de sites e sistemas, mas também sou ligado na área de infraestrutura de comunicação;
-- 🌱 Por hora estou estudando HTML, CSS, BOOTSTRAP, JAVASCRIPT e AWS;
-- 💞️ Quero colaborar em projetos de desnvolvimento para Front-End, quando estiver bem afinado nessa área vou passar pro Back-End;
-- 📫 Para me encontrar, por favor, use meu e-mail oliveira.expc@gmail.com, no mais depois tem outras formas...
+- Elias Oliveira, deste planeta, sou Analista de Desenvolvimento (também sou da área eletromecânica e mecatrônica), e nas comunidades sou "techexpc";
+- Apaixonado pela área de desenvolvimento de sites e sistemas, mas também sou ligado na área de infraestrutura de comunicação;
+- Por hora estou estudando HTML, CSS, BOOTSTRAP, JAVASCRIPT e AWS;
+- Quero colaborar em projetos de desenvolvimento para Front-End, quando estiver bem afinado nessa área vou passar pro Back-End;
+- Quem quiser me encontrar ou começar uma conversa, por favor, use meu e-mail oliveira.expc@gmail.com, no mais depois tem outras formas...
